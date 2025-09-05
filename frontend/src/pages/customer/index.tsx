@@ -142,7 +142,7 @@ const CustomerPage: React.FC = () => {
             className="ant-btn"
             style={{ marginRight: 8 }}
           >
-            取消
+            取消git status
           </button>
           <button
             type="button"
@@ -154,7 +154,7 @@ const CustomerPage: React.FC = () => {
             }}
             className="ant-btn ant-btn-primary"
           >
-            确认
+            确认2
           </button>
         </div>
       </Modal>
